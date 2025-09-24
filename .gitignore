@@ -1,0 +1,6 @@
+# Dependency folder
+node_modules/
+
+# WhatsApp Web JS auth & cache
+.wwebjs_auth/
+.wwebjs_cache/
